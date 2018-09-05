@@ -12,4 +12,4 @@ insert into sys_user_roles (sys_user_id, roles_id) values (2, 2);
 /* for batch testing */
 
 drop table if exists student;
-create table student (id int not null primary key, name varchar(20), age int, address varchar(50));
+create table student (id int not null primary key, name varchar(20), age int, sex char(1), address varchar(50));

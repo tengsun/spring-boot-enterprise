@@ -4,9 +4,10 @@ import javax.validation.constraints.Size;
 
 public class Student {
 
-	@Size(max=4,min=2)
+	@Size(max = 4, min = 2)
 	private String name;
 	private Integer age;
+	private String sex;
 	private String address;
 
 	public Student() {
@@ -27,6 +28,14 @@ public class Student {
 
 	public void setAge(Integer age) {
 		this.age = age;
+	}
+
+	public String getSex() {
+		return sex;
+	}
+
+	public void setSex(String sex) {
+		this.sex = sex;
 	}
 
 	public String getAddress() {
