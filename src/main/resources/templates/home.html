@@ -1,10 +1,27 @@
 <!DOCTYPE html>
-<html>
+
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity4">
 <head>
 <meta charset="UTF-8" />
-<title>Home</title>
+<title sec:authentication="name"></title>
 </head>
+
 <body>
-	<p>This is the home page.</p>
+	<div>
+		Title: <p th:text="${msg.title}"></p>
+		Content: <p th:text="${msg.content}"></p>
+		
+		<div sec:authorize="hasRole('ROLE_ADMIN')">
+			Extra: <p th:text="${msg.extraInfo}"></p>
+		</div>
+		<div sec:authorize="hasRole('ROLE_USER')">
+			Extra: <p>no more information</p>
+		</div>
+	</div>
+	
+	<form th:action="@{/logout}" method="post">
+		<input type="submit" value="Logout" />
+	</form>
 </body>
 </html>
