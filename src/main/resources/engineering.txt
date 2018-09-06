@@ -1,0 +1,12 @@
+<<Bootiful GCP: Getting Started with Spring Cloud for Google Cloud Platform (1/8)>> http://spring.io/blog/2018/08/20/bootiful-gcp-getting-started-with-spring-cloud-for-google-cloud-platform-1-8
+<<This Week in Spring - August 21, 2018>> http://spring.io/blog/2018/08/21/this-week-in-spring-august-21-2018
+<<Bootiful GCP: Relational Data Access with Spring Cloud GCP (2/8)>> http://spring.io/blog/2018/08/23/bootiful-gcp-relational-data-access-with-spring-cloud-gcp-2-8
+<<Bootiful GCP: Globally Consistent Data Access with Spanner (3/8)>> http://spring.io/blog/2018/08/27/bootiful-gcp-globally-consistent-data-access-with-spanner-3-8
+<<Spring Cloud Stream Fishtown.M2 /2.1.0.M2 Release Announcement>> http://spring.io/blog/2018/08/28/spring-cloud-stream-fishtown-m2-2-1-0-m2-release-announcement
+<<This Week in Spring - August 28, 2018>> http://spring.io/blog/2018/08/28/this-week-in-spring-august-28-2018
+<<Bootiful GCP: Integration with Google Cloud Pub/Sub (4/8)>> http://spring.io/blog/2018/08/30/bootiful-gcp-integration-with-google-cloud-pub-sub-4-8
+<<Spring Session for Apache Geode/Pivotal GemFire 2.0.5.RELEASE and 2.1.0.M1 Released!>> http://spring.io/blog/2018/08/30/spring-session-for-apache-geode-pivotal-gemfire-2-0-5-release-and-2-1-0-m1-released
+<<Spring Boot for Apache Geode & Pivotal GemFire 1.0.0.M2 Released!>> http://spring.io/blog/2018/08/31/spring-boot-for-apache-geode-pivotal-gemfire-1-0-0-m2-released
+<<Bootiful GCP: Runtime Configuration with Spring Cloud GCP Runtime Config (5/8)>> http://spring.io/blog/2018/09/03/bootiful-gcp-runtime-configuration-with-spring-cloud-gcp-runtime-config-5-8
+<<This Week in Spring - September 4th, 2018>> http://spring.io/blog/2018/09/05/this-week-in-spring-september-4th-2018
+<<Bootiful GCP: Supporting Observability with Spring Cloud GCP Stackdriver Trace (6/8)>> http://spring.io/blog/2018/09/06/bootiful-gcp-supporting-observability-with-spring-cloud-gcp-stackdriver-trace-6-8

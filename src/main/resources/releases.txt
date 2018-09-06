@@ -1,0 +1,8 @@
+<<Spring Framework 5.1 RC2 available now>> http://spring.io/blog/2018/08/17/spring-framework-5-1-rc2-available-now
+<<Spring Session Bean-M1 and Apple-SR4 Released>> http://spring.io/blog/2018/08/17/spring-session-bean-m1-and-apple-sr4-released
+<<Spring Data Lovelace RC2 available>> http://spring.io/blog/2018/08/20/spring-data-lovelace-rc2-available
+<<Spring Boot 2.1 M2 available now>> http://spring.io/blog/2018/08/21/spring-boot-2-1-m2-available-now
+<<Spring Security 5.1.0.RC1 Released>> http://spring.io/blog/2018/08/21/spring-security-5-1-0-rc1-released
+<<Spring Integration for AWS 2.0 GA and Spring Cloud Stream Kinesis Binder 1.0 GA>> http://spring.io/blog/2018/08/21/spring-integration-for-aws-2-0-ga-and-spring-cloud-stream-kinesis-binder-1-0-ga
+<<Spring Security OAuth2 Boot Auto-config 2.0.4 & 2.1.0.M2 Released>> http://spring.io/blog/2018/08/29/spring-security-oauth2-boot-auto-config-2-0-4-2-1-0-m2-released
+<<Spring Batch 4.1.0.M3 Released!>> http://spring.io/blog/2018/08/31/spring-batch-4-1-0-m3-released
